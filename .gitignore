@@ -1,0 +1,12 @@
+# env file 
+*_env
+
+# spark warehouse
+spark-warehouse
+
+# spark binary
+spark-*.*.*-bin-*
+
+__pycache__/
+
+nohup.out
